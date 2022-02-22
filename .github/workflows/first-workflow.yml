@@ -10,4 +10,5 @@ jobs:
           python-version: '3.9'
       - run: |
           python --version
+          python a.py
 
